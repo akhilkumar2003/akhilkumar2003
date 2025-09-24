@@ -43,14 +43,17 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=akhilkumar2003&theme=darkhub)
 
 ---
+## 🔝 Featured Projects
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
+### 🎓 Alumni Website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilkumar2003&repo=alumni-website&theme=radical)](https://github.com/akhilkumar2003/alumni-website)
+
+### 🎵 Spotify Clone
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilkumar2003&repo=spotify-clone&theme=radical)](https://github.com/akhilkumar2003/spotify)
 
 ---
 
