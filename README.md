@@ -53,8 +53,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilkumar2003&repo=alumni-website&theme=radical)](https://github.com/akhilkumar2003/alumni-website)
 
 ### 🎵 Spotify Clone
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilkumar2003&repo=spotify-clone&theme=radical)](https://github.com/akhilkumar2003/spotify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilkumar2003&repo=spotify&theme=radical)](https://github.com/akhilkumar2003/spotify)
 
+### 🚀 Hackathon Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akhilkumar2003&repo=StudyMate-Hackathon&theme=radical)](https://github.com/akhilkumar2003/StudyMate-Hackathon)
+
+*AND MANY MORE...*
 ---
 
 ## ✍️ Random Dev Quote
